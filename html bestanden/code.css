@@ -1,38 +1,29 @@
+body{
+    font-family: Arial;
+    background-color: grey;
+}
 
-a:link {
-  color: green;
-  background-color: transparent;
-  text-decoration: none;
+header{
+    background-color: deepskyblue;
+    height: 50px;
 }
-a:visited {
-  color: pink;
-  background-color: transparent;
-  text-decoration: none;
+nav{
+    background-color: greenyellow;
+    width: 120px;
+    height: 200px;
+    float:left;
 }
-a:hover {
-  color: red;
-  background-color: transparent;
-  text-decoration: underline;
-}
-a:active {
-  color: yellow;
-  background-color: transparent;
-  text-decoration: underline;
-}
-    
 main{
     background-color: yellow;
 }
-
 footer{
     background-color: hotpink;
     clear: both;
 }
-
-main H2{
+main h2{
     color: chocolate;
 }
-
-main > H2{
+main h3{
     color: red;
 }
+    
