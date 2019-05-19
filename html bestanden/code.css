@@ -1,4 +1,4 @@
-<style>
+
 a:link {
   color: green;
   background-color: transparent;
@@ -19,5 +19,20 @@ a:active {
   background-color: transparent;
   text-decoration: underline;
 }
-</style>
     
+main{
+    background-color: yellow;
+}
+
+footer{
+    background-color: hotpink;
+    clear: both;
+}
+
+main H2{
+    color: chocolate;
+}
+
+main > H2{
+    color: red;
+}
