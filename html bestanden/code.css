@@ -9,10 +9,31 @@ header{
 }
 nav{
     background-color: greenyellow;
-    width: 120px;
-    height: 200px;
+    width: 200px;
+    height: 160px;
     float:left;
 }
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
 main{
     background-color: yellow;
 }
