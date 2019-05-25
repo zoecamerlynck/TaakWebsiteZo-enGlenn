@@ -1,6 +1,6 @@
 body{
     font-family: Arial;
-    background-color: grey;
+    background-color: yellow;
 }
 
 header{
@@ -8,13 +8,13 @@ header{
     height: 50px;
 }
 nav{
-    background-color: greenyellow;
+    background-color: blue
     width: 200px;
     height: 160px;
     float:left;
 }
 a:link {
-  color: green;
+  color: blue;
   background-color: transparent;
   text-decoration: none;
 }
@@ -35,14 +35,14 @@ a:active {
 }
 
 main{
-    background-color: yellow;
+    background-color: red;
 }
 footer{
-    background-color: hotpink;
+    background-color: blue;
     clear: both;
 }
 main h2{
-    color: chocolate;
+    color: blue;
 }
 main h3{
     color: red;
