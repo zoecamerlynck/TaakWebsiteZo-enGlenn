@@ -1,16 +1,20 @@
 body{
     font-family: Arial;
     background-color: white;
+    
 }
 
 body h1{
     font-family: Arial;
     background-color: blue;
+    text-align: center;
 }
 
 body h3{
     font-family: Arial;
     background-color: aqua;
+    text-align: center;
+    
     }
 
 header{
@@ -18,7 +22,7 @@ header{
     height: 50px;
 }
 nav{
-    background-color: blue
+    background-color: beige;
     width: 200px;
     height: 160px;
     float:left;
@@ -45,10 +49,10 @@ a:active {
 }
 
 main{
-    background-color: red;
+    background-color: darkturquoise;
 }
 footer{
-    background-color: blue;
+    background-color: wheat;
     clear: both;
 }
 main h2{
