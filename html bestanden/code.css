@@ -16,8 +16,10 @@ body h3{
     font-family: Arial;
     background-color: aqua;
     
-    
-    }
+}
+body h3 img{
+    float: left;
+}
 
 header{
     background-color: deepskyblue;
