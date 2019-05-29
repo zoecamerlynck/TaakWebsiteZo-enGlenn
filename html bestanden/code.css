@@ -1,5 +1,5 @@
 body{
-    font-family: Arial;
+    font-family: arial;
     background-color: white;
       
 }
@@ -7,19 +7,21 @@ body{
     
 
 body h1{
-    font-family: Arial;
+   font-family: arial;
     background-color: blue;
     
 }
 
 body h3{
-    font-family: Arial;
-    background-color: aqua;
+    font-family: arial;
+   
+}
+
+img{
+    float: right;
     
 }
-body h3 img{
-    float: left;
-}
+
 
 header{
     background-color: deepskyblue;
