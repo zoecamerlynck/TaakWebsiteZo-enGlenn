@@ -44,7 +44,7 @@ a:visited {
   text-decoration: none;
 }
 a:hover {
-  color: green;
+  color: blue;
   background-color: transparent;
   text-decoration: underline;
 }
